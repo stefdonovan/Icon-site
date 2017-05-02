@@ -1,0 +1,125 @@
+
+html {
+ 	background-color: #000000;   
+}
+
+p5 {width: 80%;
+    max-width: 760px;
+color: #ffffff}
+
+.welcomepara {
+    width:80%;
+    margin-left:10%;
+    color:#ffffff;
+    font-family: century gothic;
+	font-size: 21px;
+}
+.welcomepara p {
+    font-family: century gothic;
+	font-size: 21px;
+}
+ul {
+    font-family: century gothic;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #1c1c1c;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+#shade a: hover{
+        background-color: #111;
+}
+
+h1{
+    color: #FFFFFF;
+    font-family: century gothic;
+    padding-top: 60px;
+    padding-bottom: 5px;
+}
+
+h2{
+    color: #FFFFFF;
+    font-family: century gothic;
+    font-size: 26px;
+}
+
+h3{
+    color: #FFFFFF;
+    font-family: century gothic;
+    font-size: 26px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+h4{
+    color: #FFFFFF;
+    font-family: century gothic;
+    font-size: 26px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+p1{
+	color: #FFFFFF;
+	font-family: century gothic;
+	font-size: 21px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+p2{
+	color: #FFFFFF;
+	font-family: century gothic;
+	font-size: 16px;
+    background-color: aliceblue;
+    float:
+}
+
+div.div1 {
+    display: block;
+    float: left;
+    height: 100%;
+    width: 50%;
+}
+
+div.div2 {
+    display: block
+    float: right;
+    height: 100%;
+    width: 50%;
+}
+
+div.div3 {
+    display: block;
+    float: left;
+    height: 100%;
+    width: 50%;
+}
+
+div.div4 {
+    display: block
+    float: right;
+    height: 100%;
+    width: 50%;
+}
+
+
