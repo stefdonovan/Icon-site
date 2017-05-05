@@ -5,7 +5,9 @@ html {
 
 p5 {width: 80%;
     max-width: 760px;
-color: #ffffff}
+    color: #ffffff
+    padding-bottom: 30px;
+}
 
 .welcomepara {
     width:80%;
@@ -24,7 +26,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #1c1c1c;
+    background-color: #000000;
 }
 
 li {
@@ -51,7 +53,7 @@ li a:hover {
 h1{
     color: #FFFFFF;
     font-family: century gothic;
-    padding-top: 60px;
+    padding-top: 20px;
     padding-bottom: 5px;
 }
 
